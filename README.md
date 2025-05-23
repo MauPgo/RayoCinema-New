@@ -25,6 +25,8 @@
 
 9. Diagrama BD:
 <img width="516" alt="diagrama BD" src="https://github.com/user-attachments/assets/0baae6b6-d242-411a-a453-020817f1550a" />
+<img width="425" alt="Query" src="https://github.com/user-attachments/assets/0ee2a057-2305-44d3-a816-5d6c75939aad" />
+
 
 10. Problemas conocidos: Al usar mac me enfrente al problema de la compatibilidad de programas, por lo cual tuve que comenzar a utilizar docker y azure data studio para poder hacer mi BD y mi server, al igual que la incompatibilidad de versiones de algunas librerias en mi proyecto lo cual me llevo algo de tiempo para corregir y que todo estuviera bien y lograr que se comunicaran mi BD y el login.
  
